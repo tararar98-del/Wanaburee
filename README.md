@@ -1,2 +1,55 @@
-# Wanaburee
-Wanaburee
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Khaolak Wanaburee Resort - Review</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-image: url('44.jpg');
+      background-repeat: no-repeat;
+      background-attachment: fixed;  
+      background-size: cover;
+      text-align: center;
+      padding: 35px;
+      color: #eafaee;
+    }
+    img.logo {
+      max-width: 350px;
+      margin-bottom: 30px;
+    }
+    h1 {
+      color: #f3f1ed;
+    }
+    .btn {
+      display: block;
+      width: 80%;
+      max-width: 300px;
+      margin: 15px auto;
+      padding: 15px;
+      background: #034401;
+      color: #f5f5f5;
+      text-decoration: none;
+      border-radius: 8px;
+      font-size: 20px;
+      font-weight: bold;
+      transition: 0.3s;
+    }
+    .btn:hover {
+      background: #b68e15;
+      color: #f8f6ef;
+    }
+  </style>
+</head>
+<body>
+  <img src="222.png" alt="Wanaburee Resort Logo" class="logo">
+  <h1>💙 Review Khaolak Wanaburee Resort 💙</h1>
+  <p>Select the platform you want to review.</p>
+
+  <a href="https://www.wanaburee.com/" class="btn">🌐 Wanaburee.com</a>
+  <a href="https://th.tripadvisor.com/Hotel_Review-g297914-d505123-Reviews-Khaolak_Wanaburee_Resort-Khao_Lak_Takua_Pa_Phang_Nga_Province.html" class="btn">⭐ Review Tripadvisor</a>
+  <a href="https://www.booking.com/hotel/th/khaolak-wanaburee-resort.th.html" class="btn">⭐ Review Booking.com</a>
+  <a href="https://www.agoda.com/th-th/khaolak-wanaburee-resort/hotel/khao-lak-th.html" class="btn">⭐ Review Agoda.com</a>
+</body>
+</html>
